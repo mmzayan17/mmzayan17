@@ -71,5 +71,3 @@ I am passionate about Web Developer & I enjoy learning new things.
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mmzayan17&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-
