@@ -67,9 +67,6 @@ I am passionate about Web Developer & I enjoy learning new things.
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmzayan17&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmzayan17" /></p>
-
- 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmzayan17&theme=radical" alt="mmzayan17" /></p>
  
  <br />
